@@ -2,7 +2,7 @@
 
 <img src = "extra/snap.jpeg">
 
-Medium: <a href="https://medium.com/@neeraj.mobcoder"/>
+Medium: https://medium.com/@neeraj.mobcoder
 
-LinkedIn: <a href="https://www.linkedin.com/in/neeraj-maurya-119425156"/>
+LinkedIn: https://www.linkedin.com/in/neeraj-maurya-119425156
 
